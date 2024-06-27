@@ -8,5 +8,5 @@ variable "azure_devops_pat" {
   description = "Azure DevOps Access Token"
   type        = string
   sensitive   = true
-  default = "dd3yl5qbkgs5ocojv2wt4mzntcaze2zoq3ft77uaxuwwawq53mlq"
+  default = "YOUR PERSONAL ACCESS TOKEN "
 }
